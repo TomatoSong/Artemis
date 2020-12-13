@@ -1,41 +1,41 @@
-source.count(QRegExp("\n"))*.[oa]
-*.pyc
-*.so
+# source.count(QRegExp("\n"))*.[oa]
+# *.pyc
+# *.so
 
-*#
-*~
+# *#
+# *~
 
-.idea
-*.pro.user.2.7pre1
-*.pro.user.*.2.7pre1
+# .idea
+# *.pro.user.2.7pre1
+# *.pro.user.*.2.7pre1
 
-build-output
-artemis-build-output
-qt-env*
+# build-output
+# artemis-build-output
+# qt-env*
 
-./qt/*
-./qt
+# ./qt/*
+# ./qt
 
-js-code-dump
+# js-code-dump
 
-artemis-code/Makefile
-artemis-code/build/
-artemis-code/dist/
-artemis-code/js-code-dump
-artemis-code/tests/system/fixtures/symbolic-expression/_*
-artemis-code/tests/build-unit-Desktop-Debug/
+# artemis-code/Makefile
+# artemis-code/build/
+# artemis-code/dist/
+# artemis-code/js-code-dump
+# artemis-code/tests/system/fixtures/symbolic-expression/_*
+# artemis-code/tests/build-unit-Desktop-Debug/
 
-artemis-code/tests/system/fixtures/legacy-benchmarks/dragable-boxes/cache/*
+# artemis-code/tests/system/fixtures/legacy-benchmarks/dragable-boxes/cache/*
 
-WebKit/config.log
+# WebKit/config.log
 
-*sublime*
+# *sublime*
 
-WebKit/WebKit.pro.user*
+# WebKit/WebKit.pro.user*
 
-contrib/Kaluza/corecstrs.tmp*
-contrib/Kaluza/stderr
-contrib/Kaluza/stdout
+# contrib/Kaluza/corecstrs.tmp*
+# contrib/Kaluza/stderr
+# contrib/Kaluza/stdout
 
 
 coverage.html
